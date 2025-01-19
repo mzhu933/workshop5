@@ -11,12 +11,16 @@ data and visualisation
 <img width="1057" alt="截屏2025-01-19 下午9 07 31" src="https://github.com/user-attachments/assets/5974c363-a0a8-4432-87da-462f7216c00d" />
 
 ## plan
+
+![未命名作品 4](https://github.com/user-attachments/assets/22dabe84-a8ba-4e5f-bfe3-0adc590766c5)
+
 1. Color Mood Tracker
 2. each color can refer a mood of a period of time
 3. white - calm, orange - energetic, navy blue - stress, light pink - optimistic
 4. each mood can connect to a image
 
 <img width="578" alt="截屏2025-01-19 下午9 12 25" src="https://github.com/user-attachments/assets/8a56794d-afd8-4a45-afcd-7928eed27485" />
+
 
 - edit csv file
 - "select button" - Increase interactivity
