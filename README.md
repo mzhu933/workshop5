@@ -39,6 +39,8 @@ data and visualisation
 
 <img width="438" alt="截屏2025-01-19 下午9 27 12" src="https://github.com/user-attachments/assets/29739a64-6e8b-47d0-9e11-b07c3c40c516" />
 
+## conclusion
+In this workshop, I learned how to create a table in p5.js, as well as how to integrate images and link them with a CSV file for better data visualization. I also explored inserting text and adding a select box to enhance interactivity. The theme was based on my own data, reflecting my mood during weeks 1-5, with the mood connected to images, providing a clear and intuitive presentation. A new feature I experimented with was adjusting the font style, using textAlign(CENTER) and textFont('serif') to refine the overall design.
 
 
 
