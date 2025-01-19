@@ -10,7 +10,7 @@ data and visualisation
 - https://p5js.org/reference/p5/p5.Table/ 
 <img width="1057" alt="截屏2025-01-19 下午9 07 31" src="https://github.com/user-attachments/assets/5974c363-a0a8-4432-87da-462f7216c00d" />
 
-## plan
+## - plan: 
 
 ![未命名作品 4](https://github.com/user-attachments/assets/22dabe84-a8ba-4e5f-bfe3-0adc590766c5)
 
