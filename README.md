@@ -2,7 +2,7 @@
 data and visualisation
 # URL: https://mzhu933.github.io/workshop5/
 
-## note:
+## - note:
 ![截屏2025-01-19_下午8 42 59](https://github.com/user-attachments/assets/dc895f2b-a6a8-44e7-8546-71fbfc8efcb5)
 ![截屏2025-01-19_下午8 45 19](https://github.com/user-attachments/assets/11c3013e-85be-467a-8bd1-ded8a1b90383)
 
@@ -25,7 +25,7 @@ data and visualisation
 - edit csv file
 - "select button" - Increase interactivity
 
-## process
+## - process:
 - preload table and images first
 - Dropdown menu for week selection
 <img width="545" alt="截屏2025-01-19 下午9 18 54" src="https://github.com/user-attachments/assets/27943681-949b-45ae-be7f-e8b13668a374" />
@@ -43,9 +43,9 @@ data and visualisation
 
 <img width="438" alt="截屏2025-01-19 下午9 27 12" src="https://github.com/user-attachments/assets/29739a64-6e8b-47d0-9e11-b07c3c40c516" />
 
-## conclusion
+## - reflection: 
 In this workshop, I learned how to create a table in p5.js, as well as how to integrate images and link them with a CSV file for better data visualization. I also explored inserting text and adding a select box to enhance interactivity. The theme was based on my own data, reflecting my mood during weeks 1-5, with the mood connected to images, providing a clear and intuitive presentation. A new feature I experimented with was adjusting the font style, using textAlign(CENTER) and textFont('serif') to refine the overall design.
-
+To build on this project, I want to include a feature where users can input text into a box and see it displayed dynamically within the visualization. This could allow for personalized annotations or mood reflections, making the experience more interactive and meaningful.
 
 
 
